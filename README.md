@@ -8,13 +8,99 @@
   <strong>V1.0</strong> · 著作权人：肖荣华 · 开发完成日期：2026年06月10日
 </p>
 
+<p align="center">
+  <a href="#-三大核心亮点--three-core-highlights">AI 分析盘面</a> &nbsp;·&nbsp;
+  <a href="#-三大核心亮点--three-core-highlights">自营考核中心</a> &nbsp;·&nbsp;
+  <a href="#-三大核心亮点--three-core-highlights">赛事系统</a> &nbsp;·&nbsp;
+  <a href="#-合作伙伴招募--partnership">找合作伙伴</a>
+</p>
+
 ---
 
 ## 概述 | Overview
 
-**中文：** 志辉交易系统是一款集行情分析、手动交易、自动化策略执行、风险控制、历史回测及账户管理于一体的综合性金融交易终端。系统面向专业交易员、普通投资者以及交易团队，覆盖外汇、贵金属、原油、数字货币、指数及股票等多类金融产品。
+志辉交易系统是一款集行情分析、手动交易、AI自动化策略执行、自营考核、赛事管理、风险控制及账户管理于一体的综合性金融交易终端。覆盖外汇、贵金属、原油、数字货币、指数及股票等多类金融产品，面向专业交易员、交易团队、资管机构以及交易教育培训机构。
 
-**English:** ZhiHui Trader is a comprehensive financial trading terminal integrating market analysis, manual trading, automated strategy execution, risk control, historical backtesting, and account management. Targeting professional traders, retail investors, and trading teams, it covers forex, precious metals, crude oil, cryptocurrencies, indices, and stocks.
+ZhiHui Trader is a comprehensive financial trading terminal integrating market analysis, manual trading, AI-powered automated execution, proprietary trading assessment, competition management, risk control, and account management. Covering forex, precious metals, crude oil, cryptocurrencies, indices, and stocks, it serves professional traders, trading teams, asset managers, and trading education institutions.
+
+---
+
+## 🎯 三大核心亮点 | Three Core Highlights
+
+### 🧠 AI 分析盘面 | AI-Powered Market Analysis
+
+> 不是简单的指标叠加——DeepSeek 大模型直连交易引擎，用自然语言描述策略即可自动生成可执行代码，回测验证后一键上线运行。
+
+> Not just indicators on a chart — the DeepSeek LLM directly interfaces with the trading engine. Describe your strategy in natural language and it generates executable code, ready for backtesting and live deployment.
+
+| 能力 Capability | 说明 Description |
+|---|---|
+| 🧠 策略生成 / Strategy Generation | 自然语言 → AI → 可执行策略代码 / Natural language → AI → Executable strategy code |
+| 🔍 博弈结构识别 / Pattern Recognition | 自动识别盘面形态并执行交易，参数可调 / Auto-detect chart patterns & trade with adjustable params |
+| 📊 策略回测 / Backtesting | 回测净值、胜率、盈亏比、交易量完整统计 / NAV, win rate, P&L ratio, volume statistics |
+| 🚀 一键上线 / One-click Deploy | 策略通过审核后在交易端直接运行 / Reviewed strategies run directly on trading terminal |
+
+### 🏆 自营考核 | Proprietary Trading Assessment
+
+> 完整独立的自营考核系统，不是 Demo。支持多级账户规模、自定义考核规则、实时进度跟踪、自动发证——交易团队和资管机构用它来筛选操盘手、管理自营资金。
+
+> A complete proprietary trading assessment system — not a demo. Multi-tier account sizes, custom evaluation rules, real-time progress tracking, auto-issue certificates — used by trading teams and institutions to screen traders and manage proprietary capital.
+
+| 功能 Feature | 说明 Description |
+|---|---|
+| 📋 多级考核账户 / Multi-tier Accounts | 自定义初始资金、风控规则、通过标准 / Custom initial capital, risk rules, pass criteria |
+| 📈 实时进度仪表盘 / Live Dashboard | 盈亏、回撤、胜率实时追踪 / Real-time P&L, drawdown, win rate tracking |
+| 📜 自动颁发证书 / Auto Certificate | 考核通过后系统自动生成结业证书 / System auto-generates certificates upon passing |
+| ⚠️ 风控预警 / Risk Alerts | 异常交易行为实时监控与干预 / Real-time monitoring and alerting on abnormal trading |
+
+### 🏅 赛事系统 | Competition System
+
+> 从赛前到赛后一条龙。批量导入参赛者、实时排名更新、个人/团队双维度统计、社区互动——可办内部模拟赛、公开实盘赛、高校交易大赛。
+
+> End-to-end competition management. Bulk import participants, real-time ranking updates, individual/team statistics, community interaction — run internal sim competitions, public live contests, or university trading challenges.
+
+| 功能 Feature | 说明 Description |
+|---|---|
+| 🏟️ 赛事创建 / Event Creation | 自定义赛制、周期、交易品种、初始资金 / Custom rules, duration, instruments, starting capital |
+| 📊 实时排名 / Live Ranking | 参赛者排名和净值动态更新 / Dynamic ranking and NAV updates |
+| 👥 批量管理 / Bulk Management | 批量导入参赛者、批量导出成绩 / Bulk import participants, batch export results |
+| 📣 海报管理 / Poster Management | 后台制作赛事海报并发布 / Admin create and publish event posters |
+
+---
+
+## 全部功能一览 | All Features
+
+### 行情分析 | Market Analysis
+
+- 多周期 K 线图表，支持自由无缝切换 / Multi-period candlestick charts with seamless switching
+- 技术指标：成交量、MA、MACD、KDJ、RSI、布林带 / Indicators: Volume, MA, MACD, KDJ, RSI, Bollinger Bands
+- 绘图工具：趋势线、水平线、文字注释、箭头标记、测量 / Drawing tools: trendlines, horizontal lines, annotations, arrows, measurement
+- 指标自由组合显示/隐藏 / Freely combine indicators show/hide
+
+### 手动交易 | Manual Trading
+
+- 市价单买入/卖出 / Market order buy/sell
+- 止损/止盈（支持金额与价格两种方式）/ Stop-loss/take-profit (both amount and price modes)
+- 挂单管理与修改 / Pending order management
+- 盘面拖动止盈止损线 / Drag SL/TP lines directly on chart
+- 一键平仓 / One-click close all positions
+
+### 历史回放 | Historical Replay
+
+- 按时间顺序播放历史 K 线，支持自动/手动逐帧 / Timeline-based historical candlestick replay, auto or frame-by-frame
+- **自由切换 K 线周期无缝衔接** — 行业独有，日内复盘训练利器 / **Seamless period switching during replay** — unique in the market, essential for day-trading review
+- VIP 用户可自行上传历史数据 / VIP users can upload custom historical data
+
+### 交易社区 | Trading Community
+
+- 不离开交易画面即可浏览、点赞、回复帖子 / Browse, like, reply to posts without leaving the trading screen
+- 个人主页展示证书、赛事排名、交易数据 / Profile page showing certificates, competition rankings, trading stats
+
+### 教学中心 | Teaching Center
+
+- 老师创建班级、布置和批改作业 / Teachers create classes, assign and grade homework
+- 学员进度跟踪与提醒 / Student progress tracking and reminders
+- 完成课程后自动生成结业证书 / Auto-generate completion certificates
 
 ---
 
@@ -22,83 +108,24 @@
 
 | 层级 Layer | 技术栈 Tech Stack |
 |---|---|
-| 前端 Frontend | 轻量级图表库, 高性能 K 线渲染 / Lightweight chart lib, high-performance candlestick rendering |
+| 前端 Frontend | 轻量级图表库，高性能 K 线渲染 / Lightweight chart lib, high-performance candlestick rendering |
 | 后端 Backend | Python 量化计算引擎 + DeepSeek 大语言模型 / Python quant engine + DeepSeek LLM |
-| 数据库 Database | PostgreSQL（主/Main） + Redis（缓存与消息队列/Cache & Queue） |
-| Web 服务器 | Nginx（HTTPS 反代与静态资源/Reverse proxy & static assets） |
+| 数据库 Database | PostgreSQL（主） + Redis（缓存与消息队列）/ PostgreSQL (main) + Redis (cache & queue) |
+| Web 服务器 | Nginx（HTTPS 反代与静态资源）/ Nginx (HTTPS reverse proxy & static assets) |
 
-**前后端分离架构**，支持多周期、多品种实时行情展示。AI 引擎可自然语言生成策略代码并自动执行。
-
-**Frontend-backend decoupled architecture**, supports multi-period, multi-symbol real-time quotes. AI engine generates strategy code from natural language and executes automatically.
-
----
+> 前后端分离架构，支持多周期多品种实时行情。AI 引擎通过自然语言生成策略代码并自动执行。
+> Frontend-backend decoupled, real-time multi-period multi-symbol quotes. AI generates strategies from natural language and executes automatically.
 
 ## 平台支持 | Platforms
 
 | 平台 Platform | 说明 Description |
 |---|---|
-| Windows 桌面版 / Desktop | 核心交易功能 / Core trading functions |
+| Windows 桌面版 / Desktop | 全部交易与管理功能 / Full trading & management features |
 | Android 手机 APP | 移动交易 / Mobile trading |
 | 浏览器 / Browser | 登录注册等公开页面 / Login & registration only |
 
-> 核心交易与管理功能仅限专用客户端使用，浏览器仅可访问公开页面，有效防止代码泄露与未授权访问。
-> Core trading and management functions are limited to dedicated clients; browser access is restricted to public pages to prevent code leakage and unauthorized access.
-
----
-
-## 核心功能 | Core Features
-
-### 行情分析 | Market Analysis
-
-- 多周期 K 线图表（支持自由切换）/ Multi-period candlestick charts (seamless switching)
-- 技术指标：成交量(Volume)、MA、MACD、KDJ、RSI、布林带(Bollinger Bands)
-- 绘图工具：趋势线、水平线、文字注释、箭头标记、测量工具
-- 指标自由组合显示/隐藏
-
-### 手动交易 | Manual Trading
-
-- 市价单买入/卖出，支持手数输入
-- 止损/止盈价格设置（支持金额与价格两种方式）
-- 挂单管理与修改（限价单等）
-- 盘面直接拖动止盈止损线调整
-- 一键平仓（快速平掉全部持仓）
-
-### AI 自动交易 | AI Automated Trading
-
-- **博弈结构识别引擎** — 自动识别盘面形态并执行交易，参数可调 / Auto-detect chart patterns and execute trades with adjustable parameters
-- **AI 策略生成** — 自然语言描述策略逻辑 → DeepSeek 大模型生成可执行交易策略 / Natural language strategy description → DeepSeek LLM generates executable trading strategy
-- **策略回测** — 回测净值、交易量等数据 / Backtest with NAV, volume statistics
-- **策略审核上线** — 通过安全审核后可在交易端运行 / After review, strategies can run live
-
-### 历史回放 | Historical Replay
-
-- 选择品种和时间范围，按时间顺序播放历史 K 线
-- 支持自动播放与手动逐帧播放
-- **自由切换 K 线周期无缝衔接**（行业独有功能，对日内交易者复盘训练至关重要）
-- VIP 用户可自行上传历史数据
-
-### 赛事中心 | Competition Center
-
-- 赛事报名与排名实时更新
-- 参赛者交易排名和净值动态展示
-
-### 交易社区 | Trading Community
-
-- 社区帖子浏览、点赞、回复
-- 不离开交易画面即可参与社交互动
-- 个人主页展示证书、赛事排名、交易数据
-
-### 教学中心 | Teaching Center
-
-- 老师创建班级、添加学员、布置/批改作业
-- 学员学习进度跟踪与提醒
-- 完成课程后自动生成结业证书
-
-### 挑战考核 | Challenge Assessment
-
-- 考核账户进度实时跟踪
-- 通过后获得考核证书
-- 风控指标实时监控与预警
+> 核心交易功能仅限专用客户端使用，有效防止代码泄露与未授权访问。
+> Core functions limited to dedicated clients, preventing code leakage and unauthorized access.
 
 ---
 
@@ -106,23 +133,29 @@
 
 | 组件 Component | 要求 Requirement |
 |---|---|
-| 操作系统 OS (服务器) | Windows 10/11 (64-bit) + Linux |
+| 服务器 OS | Windows 10/11 (64-bit) + Linux |
 | Python | 3.9+ |
-| 数据库 Database | PostgreSQL + Redis |
+| 数据库 | PostgreSQL + Redis |
 | Web 服务器 | Nginx |
-| 网络 Network | 公网 IP 或域名 / Public IP or domain |
+| 网络 | 公网 IP 或域名 / Public IP or domain |
 
 ---
 
-## 管理员功能 | Admin Features
+## 🤝 合作伙伴招募 | Partnership
 
-- 用户充值审核 / User deposit review
-- 身份实名认证审批 / Identity verification approval
-- 佣金管理与批量发放 / Commission management & batch distribution
-- 在线咨询回复 / Online consultation reply
-- 群发消息（按用户等级/活跃度筛选）/ Mass messaging with user segmentation
-- 挑战赛事管理 / Challenge competition management
-- APP 版本管理与下载统计 / App version management & download analytics
+**寻找以下领域合作伙伴共同推广和运营志辉交易系统：**
+
+**Seeking partners in the following areas to jointly promote and operate ZhiHui Trader:**
+
+| 合作方向 Area | 说明 Description |
+|---|---|
+| 🏦 资管机构 / Asset Managers | 定制自营考核系统，筛选和管理操盘手团队 / Custom assessment system for screening and managing trading teams |
+| 🏫 交易培训机构 / Trading Education | 嵌入教学体系，提供 AI 策略生成和考核发证 / Integrate into training curriculum, AI strategy generation, certification |
+| 🏟️ 赛事主办方 / Competition Organizers | 用志辉系统举办线上/线下交易大赛 / Host online/offline trading competitions on the platform |
+| 🌐 海外市场 / Global Markets | 系统国际化推广，多语言适配 / International expansion and multi-language localization |
+| 💻 技术合作 / Tech Partners | 量化策略开发、API 对接、经纪商接入 / Quant strategy development, API integration, broker connectivity |
+
+**联系方式 | Contact：** 著作权人：肖荣华 | Copyright holder: Xiao Ronghua
 
 ---
 
@@ -140,11 +173,3 @@ protected by the Copyright Law of the People's Republic of China and internation
 copyright treaties. Unauthorized reproduction, modification, distribution, or
 transmission of any part is strictly prohibited.
 ```
-
----
-
-## 联系方式 | Contact
-
-如需技术支持或有商务合作意向，请联系著作权人。
-
-For technical support or business inquiries, please contact the copyright holder.
