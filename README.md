@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="images/logo.png" alt="ZhiHui Trader Logo" width="500">
+</p>
+
+<p align="center">
   <a href="#-三大核心亮点--three-core-highlights">AI 分析盘面</a> &nbsp;·&nbsp;
   <a href="#-三大核心亮点--three-core-highlights">自营考核中心</a> &nbsp;·&nbsp;
   <a href="#-三大核心亮点--three-core-highlights">赛事系统</a> &nbsp;·&nbsp;
@@ -26,6 +30,10 @@ ZhiHui Trader is a comprehensive financial trading terminal integrating market a
 ---
 
 ## 🎯 三大核心亮点 | Three Core Highlights
+
+<p align="center">
+  <img src="images/highlights.png" alt="Three Core Highlights" width="900">
+</p>
 
 ### 🧠 AI 分析盘面 | AI-Powered Market Analysis
 
@@ -105,6 +113,10 @@ ZhiHui Trader is a comprehensive financial trading terminal integrating market a
 ---
 
 ## 架构 | Architecture
+
+<p align="center">
+  <img src="images/architecture.png" alt="System Architecture" width="800">
+</p>
 
 | 层级 Layer | 技术栈 Tech Stack |
 |---|---|
