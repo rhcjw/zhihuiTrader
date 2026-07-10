@@ -26,6 +26,8 @@
 
 **说人话：你是交易团队负责人、培训老板、赛事主办方——拿过去就能用。**
 
+![交易端主界面](https://raw.githubusercontent.com/rhcjw/zhihuiTrader/main/images/screenshots/%E4%BA%A4%E6%98%93%E7%AB%AF%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+
 ---
 
 ## 三、三大核心
@@ -42,6 +44,8 @@
 
 另外内置**博弈结构识别引擎**——自动识别头肩顶、双底、三角形等形态，参数可调，识别到信号自动下单。不是画线工具，是真的会成交。
 
+![AI量化策略](https://raw.githubusercontent.com/rhcjw/zhihuiTrader/main/images/screenshots/%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93.png)
+
 ### 🏆 自营考核基建
 
 国内做 prop firm 的团队越来越多，大部分还在用 MT4/MT5 凑合。志辉内置完整考核系统：
@@ -52,6 +56,8 @@
 - 风控预警：异常交易实时监控，超额回撤自动干预
 
 **你设规则，系统跑全程。** 筛选操盘手、管理自营资金、对外提供考核服务，一套系统撑起来。
+
+![挑战考核仪表盘](https://raw.githubusercontent.com/rhcjw/zhihuiTrader/main/images/screenshots/%E6%8C%91%E6%88%98%E8%B4%A6%E5%8F%B7%E4%BB%AA%E8%A1%A8%E7%9B%98.png)
 
 ### 🏅 赛事一条龙
 
@@ -64,12 +70,19 @@
 
 **一个人运营一场百人交易大赛。**
 
+![赛事中心排名榜](https://raw.githubusercontent.com/rhcjw/zhihuiTrader/main/images/screenshots/%E4%BA%8B%E8%B5%9B%E4%B8%AD%E5%BF%83%E6%8E%92%E5%90%8D%E6%A6%9C.png)
+
 ---
 
 ## 四、其他亮点
 
 - **历史回放：** 自由切换 K 线周期无缝衔接——市面上目前基本没有，日内复盘神器。
+
+![历史数据策略复盘](https://raw.githubusercontent.com/rhcjw/zhihuiTrader/main/images/screenshots/%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE%E7%AD%96%E7%95%A5%E5%A4%8D%E7%9B%98.png)
+
 - **交易社区：** 交易端内直接浏览、发帖、互动，不离开交易画面。
+
+![交易社区](https://raw.githubusercontent.com/rhcjw/zhihuiTrader/main/images/screenshots/%E4%BA%A4%E6%98%93%E7%A4%BE%E5%8C%BA.png)
 - **教学中心：** 建班、布置作业、跟踪进度、自动发证，一个系统覆盖教学+练习+考核。
 
 ---
